@@ -1,6 +1,6 @@
 ---
 title: The Prisoner
-...
+---
 
 Every day she heard the music as she stared out of the bay window at the world.
 The music never changed.
